@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Core",
+    "\\Repository",
     "\\Test",
     "\\Test\\CentraLogClient",
     "\\Test\\Test"
   ],
-  "SelectedNode": "\\Test\\CentraLogClient\\CentraLogLogger.cs",
+  "SelectedNode": "\\Repository\\MongoDBSettings.cs",
   "PreviewInSolutionExplorer": false
 }
